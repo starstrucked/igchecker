@@ -5,8 +5,6 @@
 import requests, os
 from pystyle import Colors
 from threading import Thread
-import concurrent.futures
-from time import sleep
 os.system('cls||clear')
 print(f""" 
 {Colors.blue}//{Colors.white} IG Username Checker 
