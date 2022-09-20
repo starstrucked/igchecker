@@ -1,6 +1,6 @@
 ############################################
 #  Instagram Username Availability Checker #
-#  Github.com/starstrucken                 #
+#  Github.com/starstrucked                 #
 ############################################
 import requests, os
 from pystyle import Colors
